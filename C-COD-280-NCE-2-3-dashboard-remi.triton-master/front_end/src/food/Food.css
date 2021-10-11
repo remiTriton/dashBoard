@@ -1,0 +1,27 @@
+#food {
+    margin-top: 20px;
+    justify-content: center;
+    width: 300px;
+    padding-left: 0;
+    background-color: white;;
+}
+.container-master {
+    width: 320px;
+    height: 600px;
+    resize: both;
+    overflow: auto;
+    background-color:white;
+
+}
+.search-bar {
+    display: flex;
+    
+}
+.recipes{
+    background-color:white;
+}
+
+.col h1 {
+    font-size: 30px;
+    font-weight: bold;
+}

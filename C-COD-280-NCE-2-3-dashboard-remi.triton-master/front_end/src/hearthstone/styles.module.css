@@ -1,0 +1,11 @@
+.cardHS img{
+    width:10%;
+    margin:0;
+}
+
+.conTAiner{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 10px;
+    margin:0;
+  }

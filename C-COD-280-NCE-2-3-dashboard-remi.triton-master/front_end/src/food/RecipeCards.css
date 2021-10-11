@@ -1,0 +1,23 @@
+.card {
+  /* width: 18rem; */
+  justify-content: center;
+  margin-bottom: 20px;
+  /* margin-right: 20px; */
+   border-radius: 10px;
+  
+}
+.card img {
+  object-fit: cover;
+}
+
+.card:hover {
+  box-shadow: 0 0 10px #ccc;
+}
+  
+.row {
+  max-width: 300px;
+}
+
+.card-text {
+  text-align: center;
+}

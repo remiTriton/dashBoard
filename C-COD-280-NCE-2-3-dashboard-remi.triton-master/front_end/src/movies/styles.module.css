@@ -1,0 +1,63 @@
+.module {
+    font-family: "Roboto", sans-serif;
+
+    max-width:350px;
+    display:flex;
+    flex-wrap:wrap;
+    height:500px;
+    overflow:scroll;
+    resize:vertical;
+    margin:10px;
+    background-color:rgb(24, 24, 24);;
+    color:white;
+    text-align:center;
+}
+input{
+    height:30px;
+    width:305px;
+    margin-bottom:3px;
+}
+.title{ 
+    text-align:center;
+    text-decoration: none;
+    margin-left:125px;
+}
+.votes{
+    margin:10px;
+    display:flex;
+    justify-content: space-between;
+}
+.movie {
+    border:1px solid white;
+    background-color:rgb(44, 44, 48);
+    border-radius: 3px;
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    margin-bottom:3px;
+    width: 330px;
+}
+
+img{
+    margin-top:10px;
+    border:1px solid white;
+}
+.ov{
+    text-align:center;
+    text-decoration:underline;margin-bottom:25px;
+}
+
+.overview {
+    background-color: rgb(44, 44, 48);
+    width: 330px;
+    border:1px solid white;
+    border-radius:3px;
+    overflow: hidden;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    color:white;
+}
+
+
+
+

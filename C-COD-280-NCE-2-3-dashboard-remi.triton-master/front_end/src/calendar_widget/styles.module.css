@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    background: #1D2C59;
+    color: white;
+    width: 360px;
+    height: 200px;
+    border-radius: 10%;
+    text-align: center;
+
+}
+
+.input{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #BF584E;
+    text-align: center;
+    border-radius: 10%;
+    width: 360px;
+    height: 150px;
+    color: white;
+    box-shadow: 0px 10px 13px -7px #000000, 10px 7px 15px 0px #000000;
+}
